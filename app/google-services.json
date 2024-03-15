@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009475161838",
+    "project_id": "sg-dating-app-aa1ad",
+    "storage_bucket": "sg-dating-app-aa1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009475161838:android:f6d9675471b01e5e6fadff",
+        "android_client_info": {
+          "package_name": "com.example.sgdatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009475161838-qt6nre8v9vdk50k8cj7mumfuoj3lumfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBPiXrF59CaS-CZomzXJJ9819OgGeATZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009475161838-qt6nre8v9vdk50k8cj7mumfuoj3lumfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
