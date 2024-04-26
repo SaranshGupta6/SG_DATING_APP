@@ -3,6 +3,7 @@
 An Android app crafted entirely with Kotlin and Firebase, seamlessly connecting colleagues and friends. With Firebase's robust backend support, enjoy high-quality video and audio conferences while prioritizing security through default encryption. Whether it's collaborating on projects or catching up with loved ones, this app facilitates connections with ease and peace of mind.
 
 Screeshot :
+
 ![Screenshot 2024-04-26 102631](https://github.com/SaranshGupta6/SG_DATING_APP/assets/83112564/fac2a341-610b-43d8-9439-8456d401fa12)
 ![Screenshot 2024-04-26 102715](https://github.com/SaranshGupta6/SG_DATING_APP/assets/83112564/cf50908c-576a-4d57-b3bc-2a81f2addca9)
 ![Screenshot 2024-04-26 102813](https://github.com/SaranshGupta6/SG_DATING_APP/assets/83112564/354f2beb-dc29-4c5a-89c9-d554a320d0f5)
